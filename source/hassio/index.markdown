@@ -1,5 +1,5 @@
 ---
-title: "Home Assistant"
+title: "VIT Home Assistant"
 description: "Manage your Home Assistant and custom add-ons."
 redirect_from: /integrations/hassio/
 ---
